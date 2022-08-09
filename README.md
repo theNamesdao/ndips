@@ -6,6 +6,6 @@ This repository contains a list of improvements related to Namesdao, the .xch Na
 ## List of Namesdao Improvement Proposals
 
 * [1. Namesdao Improvement Proposal Process](ndips/ndip-0001.md)
-* [2. Namesdao Wallet Name Resolution](ndips/ndip-0002.md)
+* [2. Namesdao .xch Wallet Name Resolution](ndips/ndip-0002.md)
 * [3. Namesdao Decentralized Name Registration](ndips/ndip-0003.md)
-* [4. Namesdao Domain Name Resolution](ndips/ndip-0004.md)
+* [4. Namesdao .xch Domain Name Resolution](ndips/ndip-0004.md)
